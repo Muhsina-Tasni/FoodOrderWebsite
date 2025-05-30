@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 8.99,
+    "image": "https://via.placeholder.com/150?text=Pizza",
+    "rating": 4.5,
+    "category": "Pizza",
+    "description": "Classic margherita with fresh mozzarella and basil."
+  },
+  {
+    "id": 2,
+    "name": "Cheeseburger",
+    "price": 9.49,
+    "image": "https://via.placeholder.com/150?text=Burger",
+    "rating": 4.3,
+    "category": "Burger",
+    "description": "Grilled beef patty with cheese, lettuce, and tomato."
+  },
+  {
+    "id": 3,
+    "name": "Chicken Biryani",
+    "price": 10.99,
+    "image": "https://via.placeholder.com/150?text=Biryani",
+    "rating": 4.7,
+    "category": "Rice",
+    "description": "Fragrant basmati rice with spiced chicken and herbs."
+  },
+  {
+    "id": 4,
+    "name": "Caesar Salad",
+    "price": 6.99,
+    "image": "https://via.placeholder.com/150?text=Salad",
+    "rating": 4.1,
+    "category": "Salad",
+    "description": "Romaine lettuce with Caesar dressing and croutons."
+  },
+  {
+    "id": 5,
+    "name": "Tandoori Chicken",
+    "price": 11.49,
+    "image": "https://via.placeholder.com/150?text=Tandoori",
+    "rating": 4.6,
+    "category": "Indian",
+    "description": "Spiced yogurt-marinated chicken grilled to perfection."
+  },
+  {
+    "id": 6,
+    "name": "Pasta Alfredo",
+    "price": 9.89,
+    "image": "https://via.placeholder.com/150?text=Pasta",
+    "rating": 4.2,
+    "category": "Pasta",
+    "description": "Creamy Alfredo pasta with parmesan and herbs."
+  },
+  {
+    "id": 7,
+    "name": "Sushi Platter",
+    "price": 15.99,
+    "image": "https://via.placeholder.com/150?text=Sushi",
+    "rating": 4.8,
+    "category": "Japanese",
+    "description": "Assorted sushi rolls with wasabi and soy sauce."
+  },
+  {
+    "id": 8,
+    "name": "Chicken Wings",
+    "price": 7.49,
+    "image": "https://via.placeholder.com/150?text=Wings",
+    "rating": 4.0,
+    "category": "Appetizer",
+    "description": "Spicy fried wings served with ranch dip."
+  },
+  {
+    "id": 9,
+    "name": "Paneer Butter Masala",
+    "price": 8.99,
+    "image": "https://via.placeholder.com/150?text=Paneer",
+    "rating": 4.4,
+    "category": "Indian",
+    "description": "Creamy paneer curry with butter and spices."
+  },
+  {
+    "id": 10,
+    "name": "Beef Tacos",
+    "price": 7.89,
+    "image": "https://via.placeholder.com/150?text=Tacos",
+    "rating": 4.3,
+    "category": "Mexican",
+    "description": "Spiced ground beef tacos with lettuce and cheese."
+  },
+  {
+    "id": 11,
+    "name": "Chocolate Lava Cake",
+    "price": 5.49,
+    "image": "https://via.placeholder.com/150?text=Dessert",
+    "rating": 4.9,
+    "category": "Dessert",
+    "description": "Warm chocolate cake with molten center."
+  },
+  {
+    "id": 12,
+    "name": "Greek Gyro",
+    "price": 9.29,
+    "image": "https://via.placeholder.com/150?text=Gyro",
+    "rating": 4.3,
+    "category": "Mediterranean",
+    "description": "Grilled lamb wrapped in pita with tzatziki."
+  },
+  {
+    "id": 13,
+    "name": "Veggie Sandwich",
+    "price": 6.49,
+    "image": "https://via.placeholder.com/150?text=Sandwich",
+    "rating": 4.1,
+    "category": "Sandwich",
+    "description": "Fresh vegetables and hummus in multigrain bread."
+  },
+  {
+    "id": 14,
+    "name": "Fish and Chips",
+    "price": 10.49,
+    "image": "https://via.placeholder.com/150?text=Fish",
+    "rating": 4.2,
+    "category": "Seafood",
+    "description": "Crispy fried fish with fries and tartar sauce."
+  },
+  {
+    "id": 15,
+    "name": "Falafel Bowl",
+    "price": 8.49,
+    "image": "https://via.placeholder.com/150?text=Falafel",
+    "rating": 4.5,
+    "category": "Vegan",
+    "description": "Chickpea falafel with hummus and veggies."
+  },
+  {
+    "id": 16,
+    "name": "Ramen Noodles",
+    "price": 9.99,
+    "image": "https://via.placeholder.com/150?text=Ramen",
+    "rating": 4.4,
+    "category": "Japanese",
+    "description": "Rich broth with noodles, egg, and pork slices."
+  },
+  {
+    "id": 17,
+    "name": "BBQ Ribs",
+    "price": 13.99,
+    "image": "https://via.placeholder.com/150?text=BBQ",
+    "rating": 4.7,
+    "category": "BBQ",
+    "description": "Slow-cooked ribs glazed with BBQ sauce."
+  },
+  {
+    "id": 18,
+    "name": "Spring Rolls",
+    "price": 4.99,
+    "image": "https://via.placeholder.com/150?text=Rolls",
+    "rating": 4.0,
+    "category": "Appetizer",
+    "description": "Crispy rolls stuffed with veggies."
+  },
+  {
+    "id": 19,
+    "name": "Butter Chicken",
+    "price": 11.99,
+    "image": "https://via.placeholder.com/150?text=Butter+Chicken",
+    "rating": 4.6,
+    "category": "Indian",
+    "description": "Tender chicken in buttery tomato gravy."
+  },
+  {
+    "id": 20,
+    "name": "Mango Smoothie",
+    "price": 4.49,
+    "image": "https://via.placeholder.com/150?text=Smoothie",
+    "rating": 4.5,
+    "category": "Beverage",
+    "description": "Refreshing mango smoothie with yogurt."
+  }
+]
+
